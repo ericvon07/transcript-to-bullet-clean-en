@@ -1,0 +1,160 @@
+[
+  {
+    "topic": "offerings",
+    "questions": [
+      "What are the company's main offerings, products, and services?"
+    ]
+  },
+  {
+    "topic": "geography",
+    "questions": [
+      "Which regions does the company operate in?"
+    ]
+  },
+  {
+    "topic": "clients",
+    "questions": [
+      "Who are the company's typical clients by offering?"
+    ]
+  },
+  {
+    "topic": "market share",
+    "questions": [
+      "What is the company's market share in the verticals in which it operates?"
+    ]
+  },
+  {
+    "topic": "resilience",
+    "questions": [
+      "How resilient is the company's go-to-market strategy against potential disruptions in its current sales channels?"
+    ]
+  },
+  {
+    "topic": "legal and regulatory",
+    "questions": [
+      "Is the company exposed to potential regulatory, legal, or reputational risks?",
+      "Are the company's end markets supported by any specific regulation or external factors?"
+    ]
+  },
+  {
+    "topic": "total addressable market",
+    "questions": [
+      "What is the size of the markets in which the company operates?"
+    ]
+  },
+  {
+    "topic": "growth levers",
+    "questions": [
+      "What are the main growth levers in the company's end markets?",
+      "Which levers enabled the company's growth in its recent history?",
+      "What are the main levers that will allow the company to continue growing in the future?",
+      "Are there clear levers that will enable margin improvement or sustain profitability in the operation?",
+      "What are the main future growth drivers in the company's industry?",
+      "What does the company intend to execute after securing the investment?",
+      "How is the company preparing to execute its growth plan after the investment round?"
+    ]
+  },
+  {
+    "topic": "barriers to entry",
+    "questions": [
+      "If applicable, what are the barriers to entry in the markets in which the company operates?"
+    ]
+  },
+  {
+    "topic": "market consolidation potential",
+    "questions": [
+      "How fragmented or consolidated are the markets in which the company operates?"
+    ]
+  },
+  {
+    "topic": "competitors",
+    "questions": [
+      "Who are the company's main competitors in each of its operating verticals?",
+      "Are there global, established companies offering solutions similar to the company's?"
+    ]
+  },
+  {
+    "topic": "historical growth",
+    "questions": [
+      "What has the company's historical revenue growth been?"
+    ]
+  },
+  {
+    "topic": "dependence on M&A",
+    "questions": [
+      "How dependent is the company's growth on acquisitions (M&A)?"
+    ]
+  },
+  {
+    "topic": "execution risk",
+    "questions": [
+      "What are the main risks related to executing the growth levers?"
+    ]
+  },
+  {
+    "topic": "geographic expansion",
+    "questions": [
+      "To what extent is the company's current growth strategy replicable across new geographies and verticals?"
+    ]
+  },
+  {
+    "topic": "profitability",
+    "questions": [
+      "What are the company's financial margins in each of its operating verticals?",
+      "What is the company's consolidated financial margin?",
+      "How do the company's margins compare with those of its competitors?",
+      "How do the company's unit economics perform? Examples of unit economics include LTV/CAC, revenue per client, revenue per store, and customer acquisition cost."
+    ]
+  },
+  {
+    "topic": "operational maturity",
+    "questions": [
+      "What is the company's true level of operational and financial maturity and sustainability?"
+    ]
+  },
+  {
+    "topic": "churn and recurrence",
+    "questions": [
+      "How do churn, retention, and recurring revenue metrics behave, and what is the impact of this dynamic on the company's profitability?"
+    ]
+  },
+  {
+    "topic": "leverage",
+    "questions": [
+      "What is the company's financial leverage (net debt / EBITDA)?"
+    ]
+  },
+  {
+    "topic": "indebtedness",
+    "questions": [
+      "Is the company's current debt profile compatible with the size of the operation under stress scenarios?"
+    ]
+  },
+  {
+    "topic": "capital intensive",
+    "questions": [
+      "How capital-intensive is the company's growth?",
+      "How dependent is the company's operation on capital (working capital)?"
+    ]
+  },
+  {
+    "topic": "founding team",
+    "questions": [
+      "What is the management team's experience in the company's sector?",
+      "What is management's ability to execute growth plans and manage stress scenarios?"
+    ]
+  },
+  {
+    "topic": "investment round and valuation",
+    "questions": [
+      "What are the characteristics of the proposed investment round?",
+      "How do the proposed valuation multiples compare with the company's benchmarks?"
+    ]
+  },
+  {
+    "topic": "general risks",
+    "questions": [
+      "What are the main exit routes and risks for investors in the future?"
+    ]
+  }
+]
