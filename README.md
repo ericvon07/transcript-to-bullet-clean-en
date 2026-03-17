@@ -2,6 +2,11 @@
 
 Reads company meeting transcripts from an Excel spreadsheet, uses Google Gemini to extract the key points as bullet points, and classifies each bullet into a topic. Positive aspects, negative aspects, and dealbreakers are processed independently, with an automatic evaluation and refinement loop to ensure coverage.
 
+**This project was a proof-of-concept developed in professional context. The original code was translated to English and adapted to remove sensitive informations.**
+
+The use case for this project was to process recorded transcripts of analysts commenting on deals they had previously reviewed, highlighting positives, negatives, and dealbreakers in depth. From these transcripts, the code extracted structured bullet points and subsequently performed semantic matching between the topics raised and the information contained in the Investment Memorandum of the analyzed deal. This enabled the creation of a topic heatmap showing which subjects were most discussed, their respective influence on the team's opinion formation, and the most relevant analytical focus areas for investment teams.
+
+
 ---
 
 ### Setup
